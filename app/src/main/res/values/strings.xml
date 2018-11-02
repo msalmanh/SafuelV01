@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SafuelV0.1</string>
+    <string name="LoginText">Enter Your Number To Signup</string>
+    <string name="title_activity_phone_auth">PhoneAuthActivity</string>
+    <string name="OTPText">Verification Code</string>
+    <string name="OTPTextEnter">Enter OTP Code</string>
+</resources>
